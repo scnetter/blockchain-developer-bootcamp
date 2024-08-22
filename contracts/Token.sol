@@ -5,5 +5,5 @@ import "hardhat/console.sol";
 
 contract Token {
     // "State Variable" - Becomes part of the contract's state on the blockchain
-    string public name = "36LIMA;
+    string public name = "36LIMA";
 }
